@@ -86,6 +86,6 @@ I am an Automation Test Engineer with 5 years of experience in Software Industry
 <a href="https://instagram.com/hailehuynhlong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hailehuynhlong" height="30" width="40" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/lhlhai/lhlhai/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lhlhai/lhlhai/2c5f1991e7df28b44b67a70ade7b21881fbb5ee9/snake.svg" alt="Snake animation" />
 
 ###
