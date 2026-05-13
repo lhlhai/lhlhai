@@ -1,91 +1,97 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
-  <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-</p>
-
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hai
-
-## Automation Test Engineer
-
-I am an Automation Test Engineer with 5 years of experience in Software Industry.
-
-* 🌍  I'm based in Ho Chi Minh City, Viet Nam
-* ✉️  You can contact me at [lhlhai.spkt@gmail.com](mailto:lhlhai.spkt@gmail.com)
-* 🧠  Currently I'm learning DevOps
-* 🤝  I'm open to collaborating on interesting projects
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lhlhai&label=Profile%20views&color=0e75b6&style=flat" alt="lhlhai" /> </p>
-
-
-# Skills 💪🏻
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <span>&nbsp; &nbsp; &nbsp; </span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" height="40" width="52" alt="tortoisegit logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" width="52" alt="bitbucket logo"  />
+
+# Hi there 👋 I'm **Hai Le Huynh Long**
+
+*Automation Test Engineer · Ho Chi Minh City, Vietnam 🇻🇳*
+
+[![Profile views](https://komarev.com/ghpvc/?username=lhlhai&label=Profile%20views&color=7F77DD&style=flat)](https://github.com/lhlhai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hai-h-l-le-439863139)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/lhlhai)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/hailehuynhlong)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lhlhai.spkt@gmail.com)
+
 </div>
 
-###
+---
+
+## 🙋‍♂️ About Me
+
+```yaml
+name: Hai Le Huynh Long
+role: Automation Test Engineer
+experience: 7 years in Software Industry
+location: Ho Chi Minh City, Vietnam
+currently_learning: [DevOps, AI & LLM Pipelines]
+open_to: Collaborating on interesting projects
+```
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-89E051?style=flat-square&logo=gnubash&logoColor=black)
+
+**🤖 AI / RAG**
+
+![Ollama](https://img.shields.io/badge/Ollama-1D9E75?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0F6E56?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-534AB7?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-7F77DD?style=flat-square&logoColor=white)
+![Docling](https://img.shields.io/badge/Docling-1D9E75?style=flat-square&logoColor=white)
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-3572A5?style=flat-square&logo=python&logoColor=white)
+
+**Testing Frameworks**
+
+![Playwright](https://img.shields.io/badge/Playwright-00D4AA?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" width="52" alt="jenkins logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
-   <span>&nbsp; &nbsp; &nbsp; </span>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+
+![Hai's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhlhai&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhlhai&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-###
+---
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lhlhai/lhlhai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lhlhai/lhlhai/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/lhlhai/lhlhai/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" height="40" width="52" alt=""  />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" height="40" width="52" alt=""  />
-  <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" height="40" width="52" alt=""  />
-  <span>&nbsp; &nbsp; &nbsp; </span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40" width="52" alt=""  />
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="40" width="52" alt=""  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="40" width="52" alt=""  />
+  <i>🤝 Open to collaborating — feel free to reach out!</i>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
-   <span>&nbsp;</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" width="52" alt="windows8 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40" width="40" alt=""  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="jira logo"  />
-</div>
-
-  
-
-
-
-# Socials 🤳🏻
-<p align="left">
-<a href="https://linkedin.com/in/hai-h-l-le-439863139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hai-h-l-le-439863139" height="30" width="40" /></a>
-<a href="https://fb.com/lhlhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lhlhai" height="30" width="40" /></a>
-<a href="https://instagram.com/hailehuynhlong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hailehuynhlong" height="30" width="40" /></a>
-</p>
-
-<img src="https://raw.githubusercontent.com/lhlhai/lhlhai/2c5f1991e7df28b44b67a70ade7b21881fbb5ee9/snake.svg" alt="Snake animation" />
-
-###
