@@ -71,23 +71,10 @@ open_to: Collaborating on interesting projects
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Hai's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhlhai&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhlhai&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
+## 🐍 Commit
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lhlhai/lhlhai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lhlhai/lhlhai/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/lhlhai/lhlhai/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/lhlhai/lhlhai/2c5f1991e7df28b44b67a70ade7b21881fbb5ee9/snake.svg" alt="Snake animation" />
 </picture>
 
 ---
